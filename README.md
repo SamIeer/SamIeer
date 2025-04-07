@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on **Python + SQL + Docker projects**
+- 🔭 I’m currently working on **Machine Learning and AI**
 - 🌱 Learning **Kubernetes, Django & AI tools**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, C++, Web Dev, Docker, DSA**
