@@ -13,7 +13,7 @@
 - 🌱 Learning **Kubernetes, Django & AI tools**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, C++, Web Dev, Docker, DSA**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sameer-chauhan-dev/)
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/sameer-chauhan-dev/](https://www.linkedin.com/in/sameer-chauhan-363298269/))
 - 🧠 Fun fact: I break things to learn how they work 🛠️
 
 ---
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerChauhan123&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerChauhan123&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samleer&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samleer&theme=radical" width="47%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🧮 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerChauhan123&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samleer&theme=react-dark&hide_border=true">
 </p>
 
 ---
@@ -54,5 +54,5 @@
 ### 📈 Visitor Count
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SameerChauhan123&label=Profile%20views&color=0e75b6&style=flat" alt="SameerChauhan123" />
+  <img src="https://komarev.com/ghpvc/?username=Samleer&label=Profile%20views&color=0e75b6&style=flat" alt="Samleer" />
 </p>
