@@ -1,8 +1,7 @@
 <!-- HEADER IMAGE -->
-<p align="center">
-  <img src="![Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/your-banner.jpg)
-" alt="header image" />
-</p>
+
+![Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/your-banner.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
 <h3 align="center">🚀 A passionate Developer and Tech Enthusiast from India 🇮🇳</h3>
