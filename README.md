@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/61l2HJPEV9L._AC_SL1500_.jpg
+  <img src="![Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/your-banner.jpg)
 " alt="header image" />
 </p>
 
