@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="![Sticker #sticker Stickers #stickers freesticker #freesticker freestickers #free](https://github.com/user-attachments/assets/dddc7dac-5c2d-48d0-b415-17265b6383a4)
+  <img src="https://m.media-amazon.com/images/I/61l2HJPEV9L._AC_SL1500_.jpg
 " alt="header image" />
 </p>
 
