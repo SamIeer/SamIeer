@@ -1,7 +1,7 @@
 <!-- HEADER IMAGE -->
-
-![Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/your-banner.jpg)
-
+<p align="center">
+  <img src="https://i.postimg.cc/7Y1sHbTd/tech-banner.gif" alt="header image" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
 <h3 align="center">🚀 A passionate Developer and Tech Enthusiast from India 🇮🇳</h3>
@@ -51,6 +51,30 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samleer&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samleer&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samleer&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+## 🏆 GitHub Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samleer&theme=tokyonight&row=1&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
+---
 
 ## 👀 Visitor Count
 
