@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
-<h3 align="center">🚀 A passionate Developer and Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">🚀 A Aspiring MLOPs and Tech Enthusiast from India 🇮🇳</h3>
 
 <!-- PROGRAMMER GIF -->
 <p align="center">
@@ -19,7 +19,7 @@
 - 🔭 Currently working on **Machine Learning, AI, and Kubernetes Projects**
 - 🌱 Learning **Cloud-Native Apps, Edge AI, and Advanced Python**
 - 👯 Open for **Open Source Contributions**
-- 💬 Ask me about **Python, Web Development, Docker, DSA**
+- 💬 Ask me about **Python, Web Development, Docker**
 - 📫 Connect on [LinkedIn](https://www.linkedin.com/in/sameer-chauhan-363298269/)
 - ⚡ Fun Fact: **I break things to learn how they work!** 🛠️
 
