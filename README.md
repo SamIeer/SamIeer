@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
-<h3 align="center">🚀 A Aspiring MLOPs and Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">🚀 A Aspiring GenAI and Tech Enthusiast from India 🇮🇳</h3>
 
 <!-- PROGRAMMER GIF -->
 <p align="center">
