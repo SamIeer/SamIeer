@@ -8,11 +8,11 @@
 
 </div>
 
-# Hi 👋 I'm Sameer Chauhan
+# Hola! 👋 
 
 ### Building AI systems, scalable products, and real-world solutions.
 
-I'm a Computer Science graduate from India 🇮🇳 focused on **Generative AI, Machine Learning, Backend Engineering, and Cloud Infrastructure**. I enjoy turning ideas into production-ready projects and learning by building.
+I'm from India 🇮🇳 focused on **Generative AI, Machine Learning, Backend Engineering, and Cloud Infrastructure**. I enjoy turning ideas into production-ready projects and learning by building.
 
 ---
 
