@@ -1,27 +1,37 @@
-<!-- HEADER IMAGE -->
-<p align="center">
-  <img src="https://i.postimg.cc/7Y1sHbTd/tech-banner.gif" alt="header image" />
-</p>
+# Hi 👋 I'm Sameer Chauhan
 
-<h1 align="center">Hi 👋, I'm Sameer Chauhan</h1>
-<h3 align="center">🚀 A Aspiring GenAI and Tech Enthusiast from India 🇮🇳</h3>
+### Building AI systems, scalable products, and real-world solutions.
 
-<!-- PROGRAMMER GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/17/c7/69/17c7692c0b1bdb2c328c0c8d0a1e6993.gif" width="400px"/>
-</p>
+I'm a Computer Science graduate from India 🇮🇳 focused on **Generative AI, Machine Learning, Backend Engineering, and Cloud Infrastructure**. I enjoy turning ideas into production-ready projects and learning by building.
 
 ---
 
-## 🔥 About Me
+## 🚀 What I'm Working On
 
-- 🎓 Computer Science Graduate passionate about solving real-world problems
-- 🔭 Currently working on **Machine Learning, AI, and Kubernetes Projects**
-- 🌱 Learning **Cloud-Native Apps, Edge AI, and Advanced Python**
-- 👯 Open for **Open Source Contributions**
-- 💬 Ask me about **Python, Web Development, Docker**
-- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/sameer-chauhan-363298269/)
-- ⚡ Fun Fact: **I break things to learn how they work!** 🛠️
+- 🤖 Generative AI applications & intelligent agents  
+- 🧠 Machine Learning systems & practical AI products  
+- ☁️ Cloud-native apps with Docker & Kubernetes  
+- ⚙️ Backend systems with Python & modern APIs  
+- 📈 Open-source projects & continuous learning  
 
 ---
 
+## 🛠 Tech Stack
+
+**Languages:** Python, JavaScript, SQL  
+**AI/ML:** OpenAI APIs, LangChain, RAG, NLP  
+**Backend:** FastAPI, Flask, Node.js  
+**Cloud/DevOps:** Docker, Kubernetes, GitHub Actions  
+**Database:** PostgreSQL, MongoDB, SQLite  
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: [sameer-chauhan](https://www.linkedin.com/in/sameer-chauhan-363298269/)
+
+---
+
+## ⚡ Philosophy
+
+> Build fast. Learn faster. Stay consistent.
